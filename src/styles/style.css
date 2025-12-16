@@ -116,3 +116,7 @@ hr {
         opacity: 1;
     }
 }
+/* this makes the one click cards have the same height in each row */
+.one-click-app-card a .ant-card-hoverable {
+    height: 100%;
+}
